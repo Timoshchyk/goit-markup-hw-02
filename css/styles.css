@@ -21,6 +21,7 @@ color: #2E2F42;
     font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 .header-logo {
 color: #4D5AE5;
@@ -28,8 +29,9 @@ color: #4D5AE5;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 .header-menu-list {
 color:  #2E2F42;
@@ -244,7 +246,7 @@ background-color: #2E2F42;
 
 .footer-logo span{
 color: #F4F4FD;
-    ont-family: "Raleway", sans-serif;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
@@ -255,7 +257,7 @@ color: #F4F4FD;
 
 .footer-logo {
     color: #4D5AE5;
-    ont-family: "Raleway", sans-serif;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
@@ -273,5 +275,8 @@ color:#F4F4FD;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+.footer-logo {}
+
+.footer-span {}
 
 /*=======================================*/
